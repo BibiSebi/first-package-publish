@@ -1,6 +1,6 @@
 {
-  "name": "first-package-publish",
-  "version": "1.0.0-alpha.1",
+  "name": "@bibi_sebi/first-package-publish",
+  "version": "1.0.0-alpha.2",
   "description": "This is a test to publish my first package",
   "main": "index.js",
   "scripts": {
